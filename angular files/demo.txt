@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 shop for home part2
+=======
+shop for home
+pavan
+>>>>>>> 88bb4a418e070ab169b4e054b05706708706a919
